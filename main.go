@@ -6,4 +6,5 @@ func get() string {
 
 func main() {
 	print(get())
+
 }
