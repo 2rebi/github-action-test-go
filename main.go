@@ -1,10 +1,9 @@
 package main
 
-func get() string {
-	return "get test"
-}
-
 func main() {
 	print(get())
+}
 
+func get() string {
+	return "get test"
 }
